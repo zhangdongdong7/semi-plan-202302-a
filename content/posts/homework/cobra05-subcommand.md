@@ -1,10 +1,11 @@
 ---
-title: "Cobra05 Subcommand"
+title: "Cobra05 - 子命令及子命令参数 （简单）"
 subtitle: "Cobra05 Subcommand"
 categories:
   - 半月刊
 tags:
-  - 半月刊202301下
+  - 半月刊202302A
+  - 简单
 date: "2023-01-16T22:54:13+08:00"
 lastmod: "2023-01-16T22:54:13+08:00"
 toc: true
@@ -15,7 +16,7 @@ pinTop: false
 
 
 
-# Cobra05 - 子命令及子命令参数
+# Cobra05 - 子命令及子命令参数 （简单）
 
 ## 提示
 

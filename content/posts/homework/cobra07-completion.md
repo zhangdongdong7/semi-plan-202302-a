@@ -1,10 +1,11 @@
 ---
-title: "Cobra05 Completion"
+title: "Cobra07 - 命令行自动补全 （简单）"
 subtitle: "Cobra05 Completion"
 categories:
   - 半月刊
 tags:
-  - 半月刊202301下
+  - 半月刊202302A
+  - 简单
 date: "2023-01-16T22:47:01+08:00"
 lastmod: "2023-01-16T22:47:01+08:00"
 toc: true
@@ -15,7 +16,7 @@ pinTop: false
 
 
 
-# Cobra05 - 命令行自动补全
+# Cobra07 - 命令行自动补全 （简单）
 
 ## 提示
 
