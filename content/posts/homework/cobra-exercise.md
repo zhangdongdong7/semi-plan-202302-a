@@ -30,14 +30,9 @@ https://github.com/golang-minibear2333/cmd_utils
 
 ### 关于 **小熊** 的补充说明
 
-补充说明一下， **小熊** 是我的好友， 一位非常值得关注博主。 
+小熊是我的好朋友，某电商公司sre leader，前腾讯面试官高级工程师， ，主要分享Go、架构设计、答辩、职业生涯、面试等经验，斩获了腾讯、字节、华为、网易、阿里等数个社招offer，强烈推荐关注！
 
-现任某电商公司sre leader，前腾讯面试官高级工程师，
+《Go语言精进之路开源书》作者 https://golang.coding3min.com
 
-#公众号：机智的程序员小熊 
-
-主要分享Go、架构设计、答辩、职业生涯、面试等经验，斩获了腾讯、字节、华为、网易、阿里等数个社招offer，强烈推荐关注！
-
-《Go语言精进之路开源书》作者 图书地址: https://golang.coding3min.com
-
-他的博客涵盖的范围很广 https://coding3min.com
+公众号: 机智的程序员小熊
+博客: https://coding3min.com
