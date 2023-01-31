@@ -46,4 +46,4 @@ pinTop: true
 
 公众号: 机智的程序员小熊
 
-![](./coder-bear-mp-qrcode.jpeg)
+![](./minibear2333-mp-qrcode.jpeg)
