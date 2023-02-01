@@ -21,6 +21,8 @@ pinTop: true
 ## 提示
 
 阅读 [golang项目结构](https://github.com/golang-standards/project-layout) 
+h
+> 提示： 这个标准是一个 **建议**， 开源社区大多循序此标准， **自己写代码， 可以遵循）。 而在不同的公司， 可能因为各种原因， 有自己的标准。 
 
 ## 作业要求
 

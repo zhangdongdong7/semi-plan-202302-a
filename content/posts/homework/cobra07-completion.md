@@ -24,6 +24,11 @@ pinTop: true
 
 ## 作业要求
 
-要求实现 greeting 命令的自动补全， 参考
+
+## 作业要求
+
+模拟 `kubectl` 实现一个带有 **多子命令** 及 **多参数** 的命令。 并根据官网提示， 在自己的命令终端实现 **补全** 功能
+
+> 提示: 不用实现具体功能， 在 `Run()` 中打印一句话就行了。
 
 ![kubectl-completion](./kubectl-completion.gif)
